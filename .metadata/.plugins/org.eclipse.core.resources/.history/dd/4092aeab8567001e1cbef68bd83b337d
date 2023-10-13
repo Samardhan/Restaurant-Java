@@ -1,0 +1,11 @@
+package samar.FoodCart.entity;
+
+import lombok.Data;
+
+@Data
+public class FoodEntity {
+	
+	
+	private Integer fId;
+
+}

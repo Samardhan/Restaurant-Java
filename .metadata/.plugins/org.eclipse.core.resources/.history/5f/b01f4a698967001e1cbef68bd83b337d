@@ -1,0 +1,6 @@
+package samar.FoodCart.service;
+
+public interface FoodService {
+
+	
+}

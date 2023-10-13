@@ -1,0 +1,10 @@
+package com.example.bind;
+
+public class FoodBind {
+
+	private Integer fId;
+	private String fName;
+	private Double fPrice;
+	private Integer fQuantity;
+	
+}
