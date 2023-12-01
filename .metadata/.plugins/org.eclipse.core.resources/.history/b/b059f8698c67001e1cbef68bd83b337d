@@ -1,8 +1,0 @@
-package samar.FoodCart.service;
-
-import samar.FoodCart.bind.FoodBind;
-
-public interface FoodService {
-
-	public String addFood(FoodBind fb);
-}

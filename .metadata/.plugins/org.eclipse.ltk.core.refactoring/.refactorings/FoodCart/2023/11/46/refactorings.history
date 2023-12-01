@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;samar.FoodCart.bind.cartItems&apos; to &apos;CartItemsBind&apos;&#x0D;&#x0A;- Original project: &apos;FoodCart&apos;&#x0D;&#x0A;- Original element: &apos;samar.FoodCart.bind.cartItems&apos;&#x0D;&#x0A;- Renamed element: &apos;samar.FoodCart.bind.CartItemsBind&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;cartItems&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;samar.FoodCart.bind{cartItems.java[cartItems" matchStrategy="1" name="CartItemsBind" qualified="false" references="true" similarDeclarations="false" stamp="1700008720130" textual="false" version="1.0"/>
+</session>

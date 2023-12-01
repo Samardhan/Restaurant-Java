@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="samar.FoodCart.bind.FoodBind"><rhs name\="samar.FoodCart.bind.FoodBind"/></lhs><lhs name\="samar.FoodCart.entity.FoodEntity"><rhs name\="samar.FoodCart.entity.FoodEntity"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="samar.FoodCart.bind.FoodBind"><rhs name\="samar.FoodCart.bind.FoodBind"/></lhs><lhs name\="samar.FoodCart.entity.FoodEntity"><rhs name\="samar.FoodCart.entity.FoodEntity"/></lhs><lhs name\="samar.FoodCart.entity.UserEntity"><rhs name\="samar.FoodCart.entity.UserEntity"/></lhs></history>
 content_assist_number_of_computers=15
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
